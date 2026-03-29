@@ -34,6 +34,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
  Developed by:Keerthana.C
  RegisterNumber:212224220047
 */
+```
  module ripple (
   input clk,     // Clock input
   input reset,   // Reset input (active high)
@@ -63,6 +64,7 @@ previous stage
 end
 endgenerate
 endmodule
+```
 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
